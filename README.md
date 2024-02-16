@@ -1,0 +1,1 @@
+Exmaples of Hello World programs written in 6 different programming languages. Each folder includes the exmaple code and the required interpreters to run it along with a readme with basic instructions.
