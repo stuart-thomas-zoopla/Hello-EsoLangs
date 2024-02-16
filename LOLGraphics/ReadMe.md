@@ -1,0 +1,1 @@
+To use LOLGraphics ruin the LOLGraphics 3.4.jar and enter your code in the provided IDE.
